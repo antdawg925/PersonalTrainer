@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import "./CSS/Style.css";
 import Home from "./Views/Home";
